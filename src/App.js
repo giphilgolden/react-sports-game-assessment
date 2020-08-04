@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
-import Game from "./componants/game/Game"
-import logo from './logo.svg';
+import Game from "./components/game/Game"
 
 function App(props) {
 

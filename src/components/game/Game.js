@@ -59,7 +59,6 @@ class Game extends React.Component {
     render() {
       return (
         <div className="Game">
-          <scoreboard />
           <h1>Welcome to {this.props.venue}</h1>
           <div className="stats">
             <Team
